@@ -1,1 +1,4 @@
-A conversation that is many-to-many. The term is commonly used to describe the nature of conversations and interactions using collaborative tools.
+<pre>
+  <b>Multilogue</b> is a cooperative game of reasoning entities against their own
+  ignorance and confusion.
+</pre>
