@@ -1,3 +1,3 @@
 <pre>
-  <b>Multilogue</b> is a cooperative game of reasoning entities against their own ignorance, confusion and misunderstanding.
+  <b>Multilogue</b> is a cooperative game of reasoning entities against ignorance, confusion and misunderstanding.
 </pre>
